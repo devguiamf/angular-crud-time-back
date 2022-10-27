@@ -1,0 +1,32 @@
+{
+  "timesFut": [
+    {
+      "id": 3,
+      "nomeTime": "Santemala",
+      "nomeTec": "Grande Soldador",
+      "jogadorEstrela": "Spirit",
+      "preco": "1685214"
+    },
+    {
+      "nomeTime": "Mal Vai",
+      "nomeTec": "Pepe",
+      "jogadorEstrela": "Ronaldo",
+      "preco": 10,
+      "id": 4
+    },
+    {
+      "nomeTime": "Adoniram",
+      "nomeTec": "lebrestiusca",
+      "jogadorEstrela": "Garrincha",
+      "preco": "1000000",
+      "id": 5
+    },
+    {
+      "nomeTime": "Xablau",
+      "nomeTec": "Ronaldo Desastre",
+      "jogadorEstrela": "Ronaldinho ",
+      "preco": "500000",
+      "id": 6
+    }
+  ]
+}
